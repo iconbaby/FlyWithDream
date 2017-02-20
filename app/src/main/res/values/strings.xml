@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlyWithDream</string>
+    <string name="main_page">首页</string>
+    <string name="book_mark">订阅</string>
+    <string name="open_drawer">打开drawer</string>
+    <string name="close_drawer">关闭drawer</string>
+
+</resources>
